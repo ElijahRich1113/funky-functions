@@ -70,7 +70,7 @@ window.onload = function() {
     * In this for loop, assign ```numClucks``` the sum of ```numClucks``` + 5.
   * Outside of this for loop (but still within the method), create an ```object``` called chicken.
     * In this object, **create 2 methods: funky1 and funky2**.
-    * In the funky1 method, assign ```numCluck``` the sum of the current value of ```numClucks``` + 10. Return the value of ```numClucks```.
+    * In the funky1 method, assign ```numClucks``` the sum of the current value of ```numClucks``` + 10. Return the value of ```numClucks```.
     * In the funky2 method, return the value of the function funky1. **How do you call a method from the same object?**
   * Outside of this chicken object (but still within the method), **return** the value of chicken's funky2 method.
 
